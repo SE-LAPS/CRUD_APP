@@ -1,17 +1,17 @@
-# 🎓 Degree Management App
+#  Degree Management App
 
 A Flutter application for managing academic degrees, allowing users to add, view, edit, and delete degree records with a clean and intuitive UI.
 
-## 📌 Features
-✅ View a list of all saved degrees
-✅ Detailed view for each degree
-✅ Add new degrees with a form
-✅ Edit existing degrees
-✅ Delete degrees with confirmation
-✅ Input validation for all fields
-✅ SQLite database integration for persistence
+##  Features
+ View a list of all saved degrees
+ Detailed view for each degree
+ Add new degrees with a form
+ Edit existing degrees
+ Delete degrees with confirmation
+ Input validation for all fields
+ SQLite database integration for persistence
 
-## 🏗 App Structure
+##  App Structure
 
 ### `main.dart`
 - **DegreeManagementApp**: The main app widget
@@ -38,8 +38,8 @@ Manages SQLite database operations with full CRUD functionality:
 -  **Delete**: `deleteDegree()`
 
 ##  Dependencies (`pubspec.yaml`)
-- `sqflite` – For SQLite database functionality 🗄
-- `path` – For file path management 📂
+- `sqflite` – For SQLite database functionality 
+- `path` – For file path management 
 
 ##  How to Run the Application
 1. Create a new Flutter project:
@@ -66,5 +66,5 @@ Manages SQLite database operations with full CRUD functionality:
 
 ---
 
-## 📬 Contact
+##  Contact
 🔗 **Follow Me:** [CodeShow LapZ](https://codeshow-lapz.web.app/presentation) 
